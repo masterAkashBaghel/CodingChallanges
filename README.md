@@ -9,6 +9,7 @@ This repository contains coding challenges and their solutions.
  - **SQLcodingChallange/**: Directory containing SQL coding challenges and their solutions.
   - **queries.sql**: SQL file containing various queries and their outputs.
   - **OutputsSS**: Contains the output screen for the queries.
+  - **Tasks**: Contains the tasks provided 
 
 ## .gitignore
 
