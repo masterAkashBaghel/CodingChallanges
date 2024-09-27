@@ -1,6 +1,5 @@
 
-- **.DS_Store**: macOS-specific system file (ignored by Git).
-- **.gitignore**: File specifying files and directories to be ignored by Git.
+ 
 - **README.md**: This file, providinesn overview of the project.
 - **SQLcodingChallange/**: Directory containing SQL coding challenges and their solutions.
   - **queries.sql**: SQL file containing various queries and their outputs.
